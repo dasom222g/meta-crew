@@ -15,6 +15,7 @@ Open a terminal and run the following Git command:
     
 Getting start
 
+    $ cd frontend
     $ yarn or yarn install or npm install
     
 ## Start working
